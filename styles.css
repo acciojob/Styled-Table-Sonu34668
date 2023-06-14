@@ -6,6 +6,6 @@ tr:nth-child(even) {
   background-color: #D6EEEE;
 }
 table {
-  border: 1px solid black;
+/*   border: 1px solid black; */
   border-radius: 100px;
 }
